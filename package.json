@@ -2,7 +2,7 @@
 	"name": "octofi-app-aquafarm",
 	"version": "4.3.1",
 	"private": true,
-	"homepage": "https://app.octo.fi",
+	"homepage": "https://blt7.github.io/octofi-app-aquafarm/",
 	"dependencies": {
 		"@0x/assert": "^3.0.7",
 		"@0x/asset-swapper": "4.4.0",
